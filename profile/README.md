@@ -24,7 +24,7 @@ Estamos construindo uma comunidade open source!
 Você pode contribuir com melhorias na documentação, desenvolvimento de pipelines, criação de dashboards ou configuração de infraestrutura.
 
 - Abra uma [issue](https://github.com/govhub-br/gov-hub/issues) para reportar problemas ou sugerir melhorias.
-- Consulte nossos templates de issues e pull requests (em inglês, para colaboração internacional).
+- Consulte nossos templates de issues e pull requests.
 
 ## Equipe
 

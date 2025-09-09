@@ -9,9 +9,9 @@ A plataforma busca reduzir a fragmentação de sistemas, otimizar processos inte
 
 A organização **Gov Hub BR** é composta por diferentes repositórios, cada um com um papel específico:
 
-- **[gov-hub](https://github.com/govhub-br/gov-hub)**: site institucional e documentação oficial.  
-- **[app-lappis-ipea](https://github.com/govhub-br/app-lappis-ipea)**: implementação da stack de dados (Airflow, DBT, Superset).  
-- **[infra-lappis-ipea](https://github.com/govhub-br/infra-lappis-ipea)**: configuração de infraestrutura (Kubernetes, Docker, orquestração e deploy).  
+- **[gov-hub](http://gov-hub.io/)**: site institucional e documentação oficial.  
+- **[data-application-gov-hub](https://github.com/GovHub-br/data-application-gov-hub)**: implementação da stack de dados (Airflow, DBT, Superset).  
+- **[continuous-deployment](https://github.com/GovHub-br/continuous-deployment)**: configuração de infraestrutura (Kubernetes, Docker, orquestração e deploy).  
 
 ## Instalação e Documentação
 

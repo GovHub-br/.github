@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Dúvidas e ideias em discussão
+    url: https://github.com/orgs/GovHub-br/discussions
+    about: Use as Discussions para perguntas e propostas ainda sem escopo definido.
